@@ -1,1 +1,1 @@
-# ember-project
+Small web application to learn how Ember’s router, models, controllers and components are working. Connected the application to Google Firebase and pushed some inputs values, display, edit and delete them from page.
